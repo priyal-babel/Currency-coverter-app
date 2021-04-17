@@ -20,6 +20,7 @@ Run the project by Android Studio Menu > Run > Run project
 
 ## Output Video
 You can find the link for the video of the output here:
+
 <https://drive.google.com/file/d/14QPLw2WxZ1a9P-ghs4hZZWbicfIQG5-2/view?usp=sharing>
 
 ## Note
